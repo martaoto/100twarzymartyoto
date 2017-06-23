@@ -1,0 +1,45 @@
+.red {
+			background-color: red;
+		}
+		img {
+			height: 170px;
+			width: 170px;
+			visibility: hidden;
+		}
+
+		.welcome {
+			font-family: "Comic Sans MS";
+			font-size: 30px;
+			font-weight: bold;
+			text-transform: uppercase;
+			color: #FFF;
+			padding: 5px 40px;
+
+		}
+
+		body {
+			background-image: url("https://s-media-cache-ak0.pinimg.com/736x/8f/d1/29/8fd1298d27d5ed5e0dc8f4363a692189.jpg");
+			background-repeat: repeat;
+		}
+
+		p#result {
+			color: #FFF;
+		}
+
+		p#arrow {
+			display: inline-block;
+			padding-right: 20px;
+			padding-left: 40px;
+			color: #FFF;
+			font-size: 25px;
+		}
+
+		.glyphicon-arrow-down {
+			font-size: 30px;
+			color: #CCC;
+		}
+
+		table#plansza {
+			color: red;
+			border: 10px solid #000;
+		}
